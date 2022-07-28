@@ -22,10 +22,17 @@ sudo chmod 666 /var/run/docker.sock
 ![image](https://user-images.githubusercontent.com/98147893/181436862-1a8709b8-9e0e-4174-afc1-f74c52d48191.png)
 
 <br />
+
 ![image](https://user-images.githubusercontent.com/98147893/181436967-b961bdfa-baf6-463b-b28a-3cd62b45f3a0.png)
-<br /><br />
+
+<br />
+
 ![image](https://user-images.githubusercontent.com/98147893/181437114-a297d4be-01af-48fe-b8e0-9ac46c2c0a10.png)
-<br /><br />
+
+<br />
+
 ![image](https://user-images.githubusercontent.com/98147893/181437162-98b6e745-ad5f-4536-be50-f130c4d2a018.png)
-<br /><br />
+
+<br />
+
 ![image](https://user-images.githubusercontent.com/98147893/181436490-09f99d18-e050-4657-b0b9-cba5e070d594.png)
