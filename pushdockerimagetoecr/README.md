@@ -1,4 +1,4 @@
-Createed the Jenkins Pipeline <br />
+Created the Jenkins Pipeline <br />
 
 ![image](https://user-images.githubusercontent.com/98147893/181433682-ac97a12e-f973-4416-9f7a-770058bcd306.png)
 <br /><br />
