@@ -13,8 +13,8 @@ pipeline {
         //}
         stage('Call Script') {
             steps {
-                sh 'chmod +x script.sh'
-                sh 'script.sh ${firstname} ${lastname}'
+                sh 'chmod +x runshellscript/script.sh'
+                sh 'runshellscript/script.sh ${firstname} ${lastname}'
             }
         }
     }
