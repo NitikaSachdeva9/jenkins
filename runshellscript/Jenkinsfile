@@ -1,0 +1,21 @@
+pipeline {
+    agent any
+    parameters {
+        string(name: 'firstname', defaultValue: 'Monica', description: 'First Name')
+        string(name: 'lastname', defaultValue: 'Bing', description: 'last name')
+    }
+
+    stages {
+        //stage('Clone Repo') {
+        //    steps {
+        //        checkout scm
+        //    }
+        //}
+        stage('Call Script') {
+            steps {
+                sh 'chmod +x script.sh'
+                sh 'script.sh ${firstname} ${lastname}'
+            }
+        }
+    }
+}
